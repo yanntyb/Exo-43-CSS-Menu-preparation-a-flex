@@ -11,6 +11,7 @@ html {
 
 body {
     background-color: lightblue;
+    width: 100vw;
 }
 
 .menu {
@@ -26,6 +27,7 @@ body {
 
 .menu ul {
     list-style: none;
+    width: 100%;
 }
 
 .menu li {
@@ -65,14 +67,13 @@ body {
     position: absolute;
     top: 3rem;
     display: block;
-    width: 4rem;
 }
 
 .menu2 a {
     text-decoration: none;
     font-size: 2rem;
     display: none;
-    width: 4rem;
+    width: 100%;
     background-color: black;
     color: white;
     text-align: center;
@@ -95,5 +96,6 @@ body {
     .menu2:hover a {
         display: block;
         color: white;
+        width: 100%;
     }
 }
