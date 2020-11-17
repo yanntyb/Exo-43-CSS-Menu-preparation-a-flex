@@ -10,3 +10,4 @@ Dans cet exo, vous allez créer un menu simple en HTML / CSS.
     6. Le menu sera de type hamburger sur mobile !!!!!
     7. Utilisez des transitions pour rendre le tout un peu plus dynamique visuellement ( par exemple, une transition sur le soulignement )
     8. Hébergez le tout sur Github pages.
+ 
